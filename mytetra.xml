@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="1">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+    <record id="16109618036s1xn3rruh" name="кабель" author="" url="" tags="114" ctime="20210118122323" dir="1610961803ve2hjek08f" file="text.html"/>
+    <record id="1610961902kh0trdwngo" name="кабель2" author="я" url="" tags="" ctime="20210118122502" dir="16109619028qba75fv5b" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1610961769tv8bb1v9zg" name="1.2"/>
+  </node>
+ </content>
+</root>
